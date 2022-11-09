@@ -1,0 +1,47 @@
+.square1{
+    top:30%;
+    position: absolute;
+    left:30%;
+}
+.square2{
+    top:30%;
+    position: absolute;
+    left:30%;
+}
+.square3{
+    top:30%;
+    position: absolute;
+    left:60%;
+}
+.square4{
+    position: absolute;
+    top:50%;
+}
+.square5{
+    top:50%;
+    position: absolute;
+    left:30%;
+}
+.square6{
+    top:50%;
+    position: absolute;
+    left:60%;
+}
+.square7{
+    top:70%;
+    position: absolute;
+    left:60%;
+}
+.square8{
+    top:70%;
+    position: absolute;
+    left:60%;
+}
+.square9{
+    top:70%;
+    position: absolute;
+    left:60%;
+}
+.image{
+    display:none;
+}
